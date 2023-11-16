@@ -1,0 +1,11 @@
+p{
+    margin: 0px;
+    padding: 0px;
+}
+.todo{
+    transition: all 0.3s ease-in-out;
+}
+.todo:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+}
